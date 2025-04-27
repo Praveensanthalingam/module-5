@@ -1,3 +1,4 @@
+NAME: PRAVEEN SANTHALINGAM M
 # EX-26-AREA-OF-RECTANGLE-USING- POINTER
 ## AIM
 To write a C Program to find area of rectangle using pointer.
@@ -11,8 +12,12 @@ To write a C Program to find area of rectangle using pointer.
 
 ## PROGRAM
 
+![image](https://github.com/user-attachments/assets/58cde7d2-8be4-4fcd-8b2a-3464a8d72361)
+
 ## OUTPUT
-		       	
+
+![image](https://github.com/user-attachments/assets/3c83faff-1b0d-4f27-9d79-b951a18390f0)
+
 
 
 ## RESULT
@@ -35,8 +40,11 @@ To write a C Program to print 'WELCOME' using malloc() and free().
 
 ## PROGRAM
 
+![image](https://github.com/user-attachments/assets/163a8a2f-b872-4f47-bfd8-2d63fa4d14ab)
+
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/460fcd64-19b4-4512-88b5-1547a7df4563)
 
 
 ## RESULT
@@ -61,9 +69,11 @@ To write a C Program to store the student information and display it using struc
 
 ## PROGRAM
 
+![image](https://github.com/user-attachments/assets/6a984e8b-467d-411c-9163-3f3fe914c785)
 
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/df82ded9-f0ae-4544-965a-1cbbb144b1ed)
 
 ## RESULT
 
@@ -88,10 +98,15 @@ To write a C Program to read and store the data of 3 employees and calculate the
 
 ## PROGRAM
 
+![image](https://github.com/user-attachments/assets/86f386e0-56f6-4c01-90d5-a63dabbc7895)
 
  ## OUTPUT
 
- 
+ ![image](https://github.com/user-attachments/assets/a60b60b1-ea61-485d-bb50-7682b628f96a)
+
+ ![image](https://github.com/user-attachments/assets/9975058b-6b3c-44e1-ba61-1b608a295837)
+
+
 
 ## RESULT
 
@@ -135,10 +150,12 @@ Step 8: End the program.
 
 ## PROGRAM
 
+![image](https://github.com/user-attachments/assets/7bdebbfa-5f5d-4642-bbd0-c4b8e542b6f5)
 
 ## OUTPUT
 
- 
+ ![image](https://github.com/user-attachments/assets/4c9ce068-5824-4b26-9fb0-2002c3209031)
+
 
 ## RESULT
 
